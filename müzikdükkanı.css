@@ -1,0 +1,15 @@
+h1 {
+    color: brown;
+}
+h2 {
+    color: blueviolet;
+}
+h3 {
+    color: blue;
+}
+ul.a {
+    list-style-position: inside;
+}
+ol.a {
+    list-style-position: inside;
+}
